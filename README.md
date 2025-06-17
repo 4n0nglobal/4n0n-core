@@ -51,4 +51,4 @@ Outline how your system works, e.g., off‑chain logic in TEE → ZK-proof gener
 ## 📬 Contact & Social
 - Email: `coredev@4n0n.com`  
 - [GitHub](https://github.com/4n0nglobal/4n0n-core)  
-- [Twitter](https://x.com/4n0njp) *(insert links)*
+- [Twitter](https://x.com/4n0njp)
