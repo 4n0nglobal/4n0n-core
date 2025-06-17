@@ -6,7 +6,7 @@ Anonymous, verifiable crypto transactions — instantly and globally.
 ---
 
 ## 🚀 Overview
-Describe the mission: use TEE and ZK-proofs to bring private contracts and real‑world POS integration.
+Utilize TEE and ZK-proofs to bring private contracts and real‑world POS integration.
 
 ---
 
